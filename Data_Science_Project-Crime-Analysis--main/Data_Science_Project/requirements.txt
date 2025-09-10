@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+link for data set:https://www.kaggle.com/datasets/utkarshx27/crimes-2001-to-present?resource=download
